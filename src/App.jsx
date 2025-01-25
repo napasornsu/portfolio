@@ -10,12 +10,12 @@ function App() {
 
   return (
     <>
-      <Navbar />
       <header>
-        <h1>Welcome to My Portfolio</h1>
-        <p>Here's a little about myself, my work, and how you can get in touch!</p>
+        <h1>Your Name</h1>
+        <p>Front-End Developer | Web Designer</p>
       </header>
 
+      <Navbar />
       <About />
       <Projects />
       <Contact />
